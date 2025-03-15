@@ -1,4 +1,4 @@
-# 🛍️ API de Produtos
+# 💾 Python + Flask + Redis
 
 Esta API foi desenvolvida para gerenciar produtos, permitindo a criação e consulta de produtos de forma eficiente e escalável. Utilizando **Python** com o framework **Flask** e o banco de dados **Redis** integrado com **SQLite**, a API otimiza a busca de produtos com um sistema de armazenamento em cache.
 
